@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/subho57">
   <img align="left" alt="subho57's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://www.facebook.com/subho57">
+<a href="https://www.facebook.com/profile.php?id=100037368282016">
   <img align="left" alt="subho57's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://lucifer-stalks.blogspot.com">
+  <img align="left" alt="subho57's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
