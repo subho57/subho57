@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Subho here...
+
+<html><head><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script></head></html>
+
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn Badge" src="https://github.com/subho57/subho57/blob/master/LinkedIn_badge_large_light.jpg" />
 <br/>
