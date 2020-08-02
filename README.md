@@ -45,15 +45,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="subho57"><a class="LI-simple-link" href='https://in.linkedin.com/in/subho57?trk=profile-badge'>Subhankar Pal</a></div>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)
 
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=17202A" width="100%"/>
-![subho57's github stats](https://github-readme-stats.vercel.app/api?username=subho57&show_icons=true&hide_border=true)
-
-
