@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 <html>
   <head>
-    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="subho57"><a class="LI-simple-link" href='https://in.linkedin.com/in/subho57?trk=profile-badge'>Subhankar Pal</a></div>
   </head>
 </html>
 
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn Badge" src="https://github.com/subho57/subho57/blob/master/LinkedIn_badge_large_light.jpg" />
-<br/>
+<br>
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 - 📫 Reach Me @: subhankarpal10@yahoo.com;
 - 📝[Resume](https://drive.google.com/file/d/1vagVKj4Zn9tIUYzttZ6wqgEa9QKh9U-M/view?usp=sharing)
 ![](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)
-<br/>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true" />
