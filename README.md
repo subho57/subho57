@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/subho57">
-  <img align="left" alt="subho57's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.codechef.com/users/subho57">
   <img align="left" alt="subho57's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
@@ -32,6 +29,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://lucifer-stalks.blogspot.com">
   <img align="left" alt="subho57's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
+<a href="https://t.me/subho57">
+  <img align="left" alt="subho57's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br/>
 <br/>
@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)
+
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true" />
