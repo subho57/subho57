@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <img align="left" alt="subho57's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <br/>
-<img align="right" alt="GIF" src="Capture.JPG" />
 
 **Languages Known:**  
 
