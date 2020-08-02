@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <a href="https://t.me/subho57">
   <img align="left" alt="subho57's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<br/>
-<br/>
+<br>
+<br>
   
 **Languages Known:**  
 
