@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=000000&bg_color=0000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=000000&bg_color=17202A" width="100%"/>
 ![subho57's github stats](https://github-readme-stats.vercel.app/api?username=subho57&show_icons=true&hide_border=true)
 
 
