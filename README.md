@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)
 
-<img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true" width="100%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true" align="right"/>
