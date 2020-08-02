@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Subho here...
+<a href="https://www.linkedin.com/in/subho57">
+  <img align="left" alt="subho's LinkedIn Badge" src="LinkedIn_badge.PNG" />
 <br/>
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
