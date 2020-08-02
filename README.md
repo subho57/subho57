@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Subho here..
+## Subho here...
 <br/>
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
+![](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=000000&bg_color=0000" width="100%"/>
-
+![subho57's github stats](https://github-readme-stats.vercel.app/api?username=subho57&show_icons=true&hide_border=true)
 
 **Languages and Tools:**  
 
