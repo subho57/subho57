@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 - 📫 Reach Me @: subhankarpal10@yahoo.com;
-- 📝[Resume](https://drive.google.com/file/d/15ZrjZhq4o6zH717NmvFnkzJ_J0aGzt9T/view?usp=sharing)
-[![GitHub visitor](https://img.shields.io/github/visitor/subho57]
+- 📝[Resume](https://drive.google.com/file/d/1FSxW5t3gxmdPxYsWUL8shz9WnLJpJhN1/view?usp=sharing)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true" />
