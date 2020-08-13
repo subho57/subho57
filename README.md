@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 - 📫 Reach Me @: subhankarpal10@yahoo.com;
 - 📝[Resume](https://drive.google.com/file/d/1vagVKj4Zn9tIUYzttZ6wqgEa9QKh9U-M/view?usp=sharing)
-![](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=subho57.subho57)]
+[![Portfolio](https://img.shields.io/websitedown_color=lightgrey&down_message=offline&logo=%40subho57&up_color=green&up_message=portfolio&url=https%3A%2F%2Fsubho57.github.io)](https://subho57.github.io)
+[![Github](https://img.shields.io/github/followers/subho57?style=social)](https://github.com/subho57/)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=subho57&&show_icons=true" />
