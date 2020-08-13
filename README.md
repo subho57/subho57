@@ -1,4 +1,5 @@
 # >_ Hello, Friend!
+ ![](https://visitor-badge.glitch.me/badge?page_id=xiaowuc2.xiaowuc2)
 
 <!--
 **subho57/subho57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
