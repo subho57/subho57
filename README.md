@@ -1,4 +1,4 @@
-### Hi there 👋
+# >_ Hello, Friend!
 
 <!--
 **subho57/subho57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Subho here...
 
 <a href="https://www.linkedin.com/in/subho57">
   <img align="left" alt="subho's LinkedIn Badge" src="https://github.com/subho57/subho57/blob/master/LinkedIn_badge_large_light.jpg" />
