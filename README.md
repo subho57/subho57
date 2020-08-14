@@ -22,19 +22,19 @@ Here are some ideas to get you started:
   <img align="left" alt="subho's LinkedIn Badge" src="https://github.com/subho57/subho57/blob/master/LinkedIn_badge_large_light.jpg" />
 <br>
 <a href="https://www.linkedin.com/in/subho57">
-  <img align="left" alt="subho's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="subho's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/subho57">
-  <img align="left" alt="subho57's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="subho57's Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100037368282016">
-  <img align="left" alt="subho57's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="subho57's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://lucifer-stalks.blogspot.com">
-  <img align="left" alt="subho57's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="subho57's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://t.me/subho57">
-  <img align="left" alt="subho57's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="subho57's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br>
 <br>
